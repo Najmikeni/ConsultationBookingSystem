@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/activity_appoinment_student.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_appoinment_student.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/activity_user_profile.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/activity_new_register.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_new_register.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/activity_appointment_detail.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_appointment_detail.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/activity_new_appointment.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_new_appointment.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/appointment_list_item.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/appointment_list_item.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/fragment_gallery.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/fragment_home.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/lect_list_items.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/lect_list_items.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/spinner_item_time.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/spinner_item_time.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/activity_lect_list.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_lect_list.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/spinner_item_lect.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/spinner_item_lect.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/activity_appointment_lecturer.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_appointment_lecturer.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/activity_lecturer_detail.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_lecturer_detail.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/fragment_slideshow.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/activity_login.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.groupproject557.app-mergeDebugResources-39:/layout/activity_lecturer_main.xml",
+        "source": "com.example.groupproject557.app-main-42:/layout/activity_lecturer_main.xml"
+    }
+]

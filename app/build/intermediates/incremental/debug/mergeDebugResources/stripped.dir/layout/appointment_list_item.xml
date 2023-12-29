@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="95dp"
+    android:padding="5dp"
+    android:layout_marginBottom="2dp"
+    android:layout_marginLeft="10dp"
+    android:background="@drawable/custome_list_back"
+    >
+
+    <TextView
+        android:id="@+id/tvAppointmentDate"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:text="Appointment Date" />
+
+    <TextView
+        android:id="@+id/tvTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvAppointmentDate"
+        android:text="Time"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/tvLectName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvTime"
+        android:text="Lecture Name"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvLectName"
+        android:text="Status"
+        android:textStyle="bold|italic" />
+
+
+</RelativeLayout>

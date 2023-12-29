@@ -1,0 +1,247 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.groupproject557"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:7:5-109:19
+14        android:allowBackup="true"
+14-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Users\User\.gradle\caches\transforms-3\87a796fe63836d99a2198ac6a6284cb3\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:9:9-65
+17        android:debuggable="true"
+18        android:fullBackupContent="@xml/backup_rules"
+18-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:10:9-54
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:11:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.GroupProject557" >
+24-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:15:9-53
+25        <activity
+25-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:17:9-23:20
+26            android:name="com.example.groupproject557.AppointmentDetailActivity"
+26-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:18:13-54
+27            android:exported="false" >
+27-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:19:13-37
+28            <meta-data
+28-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+29                android:name="android.app.lib_name"
+29-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+30                android:value="" />
+30-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+31        </activity>
+32        <activity
+32-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:24:9-32:20
+33            android:name="com.example.groupproject557.profile_drawer_nav"
+33-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:25:13-47
+34            android:exported="false"
+34-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:26:13-37
+35            android:label="@string/title_activity_profile_drawer_nav"
+35-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:27:13-70
+36            android:theme="@style/Theme.GroupProject557.NoActionBar" >
+36-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:28:13-69
+37            <meta-data
+37-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+38                android:name="android.app.lib_name"
+38-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+39                android:value="" />
+39-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+40        </activity>
+41        <activity
+41-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:33:9-39:20
+42            android:name="com.example.groupproject557.NewRegisterActivity"
+42-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:34:13-48
+43            android:exported="false" >
+43-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:35:13-37
+44            <meta-data
+44-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+45                android:name="android.app.lib_name"
+45-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+46                android:value="" />
+46-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+47        </activity>
+48        <activity
+48-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:40:9-46:20
+49            android:name="com.example.groupproject557.AppointmentLecturerActivity"
+49-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:41:13-56
+50            android:exported="false" >
+50-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:42:13-37
+51            <meta-data
+51-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+52                android:name="android.app.lib_name"
+52-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+53                android:value="" />
+53-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+54        </activity>
+55        <activity
+55-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:47:9-53:20
+56            android:name="com.example.groupproject557.LecturerMainActivity"
+56-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:48:13-49
+57            android:exported="false" >
+57-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:49:13-37
+58            <meta-data
+58-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+59                android:name="android.app.lib_name"
+59-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+60                android:value="" />
+60-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+61        </activity>
+62        <activity
+62-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:54:9-60:20
+63            android:name="com.example.groupproject557.LecturerDetailActivity"
+63-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:55:13-51
+64            android:exported="false" >
+64-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:56:13-37
+65            <meta-data
+65-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+66                android:name="android.app.lib_name"
+66-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+67                android:value="" />
+67-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+68        </activity>
+69        <activity
+69-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:61:9-67:20
+70            android:name="com.example.groupproject557.UserProfile"
+70-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:62:13-40
+71            android:exported="false" >
+71-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:63:13-37
+72            <meta-data
+72-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+73                android:name="android.app.lib_name"
+73-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+74                android:value="" />
+74-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+75        </activity>
+76        <activity
+76-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:68:9-74:20
+77            android:name="com.example.groupproject557.AppointmentStudentActivity"
+77-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:69:13-55
+78            android:exported="false" >
+78-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:70:13-37
+79            <meta-data
+79-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+80                android:name="android.app.lib_name"
+80-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+81                android:value="" />
+81-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+82        </activity>
+83        <activity
+83-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:75:9-81:20
+84            android:name="com.example.groupproject557.NewAppointmentActivity"
+84-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:76:13-51
+85            android:exported="false" >
+85-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:77:13-37
+86            <meta-data
+86-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+87                android:name="android.app.lib_name"
+87-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+88                android:value="" />
+88-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+89        </activity>
+90        <activity
+90-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:82:9-88:20
+91            android:name="com.example.groupproject557.LectListActivity"
+91-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:83:13-45
+92            android:exported="false" >
+92-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:84:13-37
+93            <meta-data
+93-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+94                android:name="android.app.lib_name"
+94-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+95                android:value="" />
+95-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+96        </activity>
+97        <activity
+97-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:89:9-101:20
+98            android:name="com.example.groupproject557.LoginActivity"
+98-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:90:13-42
+99            android:exported="true" >
+99-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:91:13-36
+100            <meta-data
+100-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+101                android:name="android.app.lib_name"
+101-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+102                android:value="" />
+102-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+103
+104            <intent-filter>
+104-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:96:13-100:29
+105                <action android:name="android.intent.action.MAIN" />
+105-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:97:17-69
+105-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:97:25-66
+106
+107                <category android:name="android.intent.category.LAUNCHER" />
+107-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:99:17-77
+107-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:99:27-74
+108            </intent-filter>
+109        </activity>
+110        <activity
+110-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:102:9-108:20
+111            android:name="com.example.groupproject557.MainActivity"
+111-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:103:13-41
+112            android:exported="true" >
+112-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:104:13-36
+113            <meta-data
+113-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:20:13-22:36
+114                android:name="android.app.lib_name"
+114-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:21:17-52
+115                android:value="" />
+115-->C:\Users\User\Desktop\UiTM\SEM 5\CSC557\project\GroupProject557(9)\app\src\main\AndroidManifest.xml:22:17-33
+116        </activity>
+117
+118        <provider
+118-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+119            android:name="androidx.startup.InitializationProvider"
+119-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+120            android:authorities="com.example.groupproject557.androidx-startup"
+120-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+121            android:exported="false" >
+121-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+122            <meta-data
+122-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+123                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+123-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+124                android:value="androidx.startup" />
+124-->[androidx.emoji2:emoji2:1.2.0] C:\Users\User\.gradle\caches\transforms-3\c03fa7bc00a04a375204b573f0966d9f\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+125            <meta-data
+125-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+126                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+126-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+127                android:value="androidx.startup" />
+127-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\User\.gradle\caches\transforms-3\0ce9e5f033589fdf0ab757f82f7808ec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+128        </provider>
+129
+130        <uses-library
+130-->[androidx.window:window:1.0.0] C:\Users\User\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+131            android:name="androidx.window.extensions"
+131-->[androidx.window:window:1.0.0] C:\Users\User\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+132            android:required="false" />
+132-->[androidx.window:window:1.0.0] C:\Users\User\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+133        <uses-library
+133-->[androidx.window:window:1.0.0] C:\Users\User\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+134            android:name="androidx.window.sidecar"
+134-->[androidx.window:window:1.0.0] C:\Users\User\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+135            android:required="false" />
+135-->[androidx.window:window:1.0.0] C:\Users\User\.gradle\caches\transforms-3\073f10b23065a04cd4c659168bad23fb\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+136    </application>
+137
+138</manifest>
